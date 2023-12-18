@@ -1,4 +1,4 @@
 # MyProject
 This is my Git Repository.
 <br>
-Author - Harshit Sharma
+Author - Harshit Sharma (Microsoft)
